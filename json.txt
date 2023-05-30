@@ -1,0 +1,5 @@
+json 한줄은 문자열로 처리
+JSON.stringify()
+JSON.parse()
+
+https://jsonplaceholder.typicode.com/
